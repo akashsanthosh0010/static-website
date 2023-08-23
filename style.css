@@ -101,7 +101,7 @@ li {
     cursor: pointer;
     }
     .btn:hover{
-    background: #0066b3;
+    background: hsl(206, 97%, 28%);
     }
     .champions{
         width: 1366px;
